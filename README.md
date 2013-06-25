@@ -1,6 +1,8 @@
-simple-tracker
-==============
+p4p-tracker
+===========
 
-Simple torrent tracker
+Simple torrent tracker for P4P-like traffic shaping
 
-I think this is the most simplest torrent tracker ever made. Fork and do it in less sloc :)
+Forked from [simple-tracker](https://github.com/deejayy/simple-tracker) project.
+
+!! **WARNING** !! - still in development, hacks, shortcuts, bugs, but testable
